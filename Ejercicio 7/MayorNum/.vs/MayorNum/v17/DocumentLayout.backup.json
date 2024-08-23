@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\Documents\\PracticaC#\\Ejercicio 7\\MayorNum\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{832BFF85-3359-4F9D-8169-540C8ADDFC1D}|MayorNum\\MayorNum.csproj|c:\\users\\dell\\documents\\practicac#\\ejercicio 7\\mayornum\\mayornum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{832BFF85-3359-4F9D-8169-540C8ADDFC1D}|MayorNum\\MayorNum.csproj|solutionrelative:mayornum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\PracticaC#\\Ejercicio 7\\MayorNum\\MayorNum\\Program.cs",
+              "RelativeDocumentMoniker": "MayorNum\\Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\PracticaC#\\Ejercicio 7\\MayorNum\\MayorNum\\Program.cs",
+              "RelativeToolTip": "MayorNum\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T01:15:09.367Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

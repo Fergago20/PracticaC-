@@ -1,0 +1,15 @@
+C:\Users\Dell\Documents\PracticaC#\Ejercicio 7\MayorNum\MayorNum\obj\Debug\net8.0\MayorNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\PracticaC#\Ejercicio 7\MayorNum\MayorNum\obj\Debug\net8.0\MayorNum.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\PracticaC#\Ejercicio 7\MayorNum\MayorNum\obj\Debug\net8.0\MayorNum.AssemblyInfo.cs
+C:\Users\Dell\Documents\PracticaC#\Ejercicio 7\MayorNum\MayorNum\obj\Debug\net8.0\MayorNum.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\PracticaC#\Ejercicio 7\MayorNum\MayorNum\obj\Debug\net8.0\MayorNum.sourcelink.json
+C:\Users\Dell\Documents\PracticaC#\Ejercicio 7\MayorNum\MayorNum\bin\Debug\net8.0\MayorNum.exe
+C:\Users\Dell\Documents\PracticaC#\Ejercicio 7\MayorNum\MayorNum\bin\Debug\net8.0\MayorNum.deps.json
+C:\Users\Dell\Documents\PracticaC#\Ejercicio 7\MayorNum\MayorNum\bin\Debug\net8.0\MayorNum.runtimeconfig.json
+C:\Users\Dell\Documents\PracticaC#\Ejercicio 7\MayorNum\MayorNum\bin\Debug\net8.0\MayorNum.dll
+C:\Users\Dell\Documents\PracticaC#\Ejercicio 7\MayorNum\MayorNum\bin\Debug\net8.0\MayorNum.pdb
+C:\Users\Dell\Documents\PracticaC#\Ejercicio 7\MayorNum\MayorNum\obj\Debug\net8.0\MayorNum.dll
+C:\Users\Dell\Documents\PracticaC#\Ejercicio 7\MayorNum\MayorNum\obj\Debug\net8.0\refint\MayorNum.dll
+C:\Users\Dell\Documents\PracticaC#\Ejercicio 7\MayorNum\MayorNum\obj\Debug\net8.0\MayorNum.pdb
+C:\Users\Dell\Documents\PracticaC#\Ejercicio 7\MayorNum\MayorNum\obj\Debug\net8.0\MayorNum.genruntimeconfig.cache
+C:\Users\Dell\Documents\PracticaC#\Ejercicio 7\MayorNum\MayorNum\obj\Debug\net8.0\ref\MayorNum.dll
