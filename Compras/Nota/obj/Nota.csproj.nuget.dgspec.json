@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\Videos\\C# ejercicios\\Compras\\Compras\\Compras.csproj": {}
+    "C:\\Users\\Usuario\\Videos\\C# ejercicios\\Compras\\Nota\\Nota.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\Videos\\C# ejercicios\\Compras\\Compras\\Compras.csproj": {
+    "C:\\Users\\Usuario\\Videos\\C# ejercicios\\Compras\\Nota\\Nota.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Videos\\C# ejercicios\\Compras\\Compras\\Compras.csproj",
-        "projectName": "Compras",
-        "projectPath": "C:\\Users\\Usuario\\Videos\\C# ejercicios\\Compras\\Compras\\Compras.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Videos\\C# ejercicios\\Compras\\Nota\\Nota.csproj",
+        "projectName": "Nota",
+        "projectPath": "C:\\Users\\Usuario\\Videos\\C# ejercicios\\Compras\\Nota\\Nota.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Videos\\C# ejercicios\\Compras\\Compras\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\Videos\\C# ejercicios\\Compras\\Nota\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
