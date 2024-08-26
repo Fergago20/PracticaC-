@@ -3,6 +3,30 @@
   "WorkspaceRootPath": "C:\\Users\\Dell\\Documents\\PracticaC#\\Compras\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2EB419CB-831B-47E4-A8EE-C8D9EC4D3349}|Circulo\\Circulo.csproj|c:\\users\\dell\\documents\\practicac#\\compras\\circulo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EB419CB-831B-47E4-A8EE-C8D9EC4D3349}|Circulo\\Circulo.csproj|solutionrelative:circulo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EB419CB-831B-47E4-A8EE-C8D9EC4D3349}|Circulo\\Circulo.csproj|c:\\users\\dell\\documents\\practicac#\\compras\\circulo\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EB419CB-831B-47E4-A8EE-C8D9EC4D3349}|Circulo\\Circulo.csproj|solutionrelative:circulo\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D02C0A52-01DE-494F-A8EF-E30B95DE2094}|Raiz\\Raiz.csproj|c:\\users\\dell\\documents\\practicac#\\compras\\raiz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D02C0A52-01DE-494F-A8EF-E30B95DE2094}|Raiz\\Raiz.csproj|solutionrelative:raiz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D02C0A52-01DE-494F-A8EF-E30B95DE2094}|Raiz\\Raiz.csproj|c:\\users\\dell\\documents\\practicac#\\compras\\raiz\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D02C0A52-01DE-494F-A8EF-E30B95DE2094}|Raiz\\Raiz.csproj|solutionrelative:raiz\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7576E805-538A-4857-BA05-89816DE0EC6B}|Cubo\\Cubo.csproj|c:\\users\\dell\\documents\\practicac#\\compras\\cubo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7576E805-538A-4857-BA05-89816DE0EC6B}|Cubo\\Cubo.csproj|solutionrelative:cubo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7576E805-538A-4857-BA05-89816DE0EC6B}|Cubo\\Cubo.csproj|c:\\users\\dell\\documents\\practicac#\\compras\\cubo\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7576E805-538A-4857-BA05-89816DE0EC6B}|Cubo\\Cubo.csproj|solutionrelative:cubo\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C41BC3A8-C04B-4165-8DE0-3C8D44970ED2}|Notas\\Notas.csproj|c:\\users\\dell\\documents\\practicac#\\compras\\notas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C41BC3A8-C04B-4165-8DE0-3C8D44970ED2}|Notas\\Notas.csproj|solutionrelative:notas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,16 +35,16 @@
       "RelativeMoniker": "D:0:0:{C41BC3A8-C04B-4165-8DE0-3C8D44970ED2}|Notas\\Notas.csproj|solutionrelative:notas\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08B9860F-0CE6-4121-88A8-49166E4F015D}|Compras\\Compras.csproj|c:\\users\\dell\\documents\\practicac#\\compras\\compras\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08B9860F-0CE6-4121-88A8-49166E4F015D}|Compras\\Compras.csproj|solutionrelative:compras\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{08B9860F-0CE6-4121-88A8-49166E4F015D}|Compras\\Compras.csproj|c:\\users\\dell\\documents\\practicac#\\compras\\compras\\clases\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{08B9860F-0CE6-4121-88A8-49166E4F015D}|Compras\\Compras.csproj|solutionrelative:compras\\clases\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{08B9860F-0CE6-4121-88A8-49166E4F015D}|Compras\\Compras.csproj|c:\\users\\dell\\documents\\practicac#\\compras\\compras\\compras.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{08B9860F-0CE6-4121-88A8-49166E4F015D}|Compras\\Compras.csproj|solutionrelative:compras\\compras.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08B9860F-0CE6-4121-88A8-49166E4F015D}|Compras\\Compras.csproj|c:\\users\\dell\\documents\\practicac#\\compras\\compras\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08B9860F-0CE6-4121-88A8-49166E4F015D}|Compras\\Compras.csproj|solutionrelative:compras\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -44,18 +68,95 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\PracticaC#\\Compras\\Circulo\\Class1.cs",
+              "RelativeDocumentMoniker": "Circulo\\Class1.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\PracticaC#\\Compras\\Circulo\\Class1.cs",
+              "RelativeToolTip": "Circulo\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T10:49:45.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\PracticaC#\\Compras\\Circulo\\Program.cs",
+              "RelativeDocumentMoniker": "Circulo\\Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\PracticaC#\\Compras\\Circulo\\Program.cs",
+              "RelativeToolTip": "Circulo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T10:47:50.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\PracticaC#\\Compras\\Raiz\\Class1.cs",
+              "RelativeDocumentMoniker": "Raiz\\Class1.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\PracticaC#\\Compras\\Raiz\\Class1.cs",
+              "RelativeToolTip": "Raiz\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T10:31:22.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\PracticaC#\\Compras\\Raiz\\Program.cs",
+              "RelativeDocumentMoniker": "Raiz\\Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\PracticaC#\\Compras\\Raiz\\Program.cs",
+              "RelativeToolTip": "Raiz\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T10:29:59.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\PracticaC#\\Compras\\Cubo\\Class1.cs",
+              "RelativeDocumentMoniker": "Cubo\\Class1.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\PracticaC#\\Compras\\Cubo\\Class1.cs",
+              "RelativeToolTip": "Cubo\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T10:12:13.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\PracticaC#\\Compras\\Cubo\\Program.cs",
+              "RelativeDocumentMoniker": "Cubo\\Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\PracticaC#\\Compras\\Cubo\\Program.cs",
+              "RelativeToolTip": "Cubo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T10:09:48.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\Documents\\PracticaC#\\Compras\\Notas\\Class1.cs",
               "RelativeDocumentMoniker": "Notas\\Class1.cs",
               "ToolTip": "C:\\Users\\Dell\\Documents\\PracticaC#\\Compras\\Notas\\Class1.cs",
               "RelativeToolTip": "Notas\\Class1.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T04:33:42.874Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-26T04:33:42.874Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\Documents\\PracticaC#\\Compras\\Notas\\Program.cs",
               "RelativeDocumentMoniker": "Notas\\Program.cs",
@@ -68,7 +169,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "Factura.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\Documents\\PracticaC#\\Compras\\Compras\\clases\\Factura.cs",
               "RelativeDocumentMoniker": "Compras\\clases\\Factura.cs",
@@ -76,12 +177,11 @@
               "RelativeToolTip": "Compras\\clases\\Factura.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T13:42:30.465Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-23T13:42:30.465Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "Compras.csproj",
               "DocumentMoniker": "C:\\Users\\Dell\\Documents\\PracticaC#\\Compras\\Compras\\Compras.csproj",
               "RelativeDocumentMoniker": "Compras\\Compras.csproj",
@@ -93,7 +193,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\Documents\\PracticaC#\\Compras\\Compras\\Program.cs",
               "RelativeDocumentMoniker": "Compras\\Program.cs",
@@ -101,8 +201,7 @@
               "RelativeToolTip": "Compras\\Program.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAgwBQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T13:36:38.162Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-23T13:36:38.162Z"
             }
           ]
         }

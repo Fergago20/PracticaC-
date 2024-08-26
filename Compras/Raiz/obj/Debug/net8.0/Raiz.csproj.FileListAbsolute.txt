@@ -1,0 +1,15 @@
+C:\Users\Dell\Documents\PracticaC#\Compras\Raiz\bin\Debug\net8.0\Raiz.exe
+C:\Users\Dell\Documents\PracticaC#\Compras\Raiz\bin\Debug\net8.0\Raiz.deps.json
+C:\Users\Dell\Documents\PracticaC#\Compras\Raiz\bin\Debug\net8.0\Raiz.runtimeconfig.json
+C:\Users\Dell\Documents\PracticaC#\Compras\Raiz\bin\Debug\net8.0\Raiz.dll
+C:\Users\Dell\Documents\PracticaC#\Compras\Raiz\bin\Debug\net8.0\Raiz.pdb
+C:\Users\Dell\Documents\PracticaC#\Compras\Raiz\obj\Debug\net8.0\Raiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\PracticaC#\Compras\Raiz\obj\Debug\net8.0\Raiz.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\PracticaC#\Compras\Raiz\obj\Debug\net8.0\Raiz.AssemblyInfo.cs
+C:\Users\Dell\Documents\PracticaC#\Compras\Raiz\obj\Debug\net8.0\Raiz.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\PracticaC#\Compras\Raiz\obj\Debug\net8.0\Raiz.sourcelink.json
+C:\Users\Dell\Documents\PracticaC#\Compras\Raiz\obj\Debug\net8.0\Raiz.dll
+C:\Users\Dell\Documents\PracticaC#\Compras\Raiz\obj\Debug\net8.0\refint\Raiz.dll
+C:\Users\Dell\Documents\PracticaC#\Compras\Raiz\obj\Debug\net8.0\Raiz.pdb
+C:\Users\Dell\Documents\PracticaC#\Compras\Raiz\obj\Debug\net8.0\Raiz.genruntimeconfig.cache
+C:\Users\Dell\Documents\PracticaC#\Compras\Raiz\obj\Debug\net8.0\ref\Raiz.dll

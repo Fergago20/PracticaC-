@@ -1,0 +1,15 @@
+C:\Users\Dell\Documents\PracticaC#\Compras\Cubo\obj\Debug\net8.0\Cubo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\PracticaC#\Compras\Cubo\obj\Debug\net8.0\Cubo.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\PracticaC#\Compras\Cubo\obj\Debug\net8.0\Cubo.AssemblyInfo.cs
+C:\Users\Dell\Documents\PracticaC#\Compras\Cubo\obj\Debug\net8.0\Cubo.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\PracticaC#\Compras\Cubo\obj\Debug\net8.0\Cubo.sourcelink.json
+C:\Users\Dell\Documents\PracticaC#\Compras\Cubo\bin\Debug\net8.0\Cubo.exe
+C:\Users\Dell\Documents\PracticaC#\Compras\Cubo\bin\Debug\net8.0\Cubo.deps.json
+C:\Users\Dell\Documents\PracticaC#\Compras\Cubo\bin\Debug\net8.0\Cubo.runtimeconfig.json
+C:\Users\Dell\Documents\PracticaC#\Compras\Cubo\bin\Debug\net8.0\Cubo.dll
+C:\Users\Dell\Documents\PracticaC#\Compras\Cubo\bin\Debug\net8.0\Cubo.pdb
+C:\Users\Dell\Documents\PracticaC#\Compras\Cubo\obj\Debug\net8.0\Cubo.dll
+C:\Users\Dell\Documents\PracticaC#\Compras\Cubo\obj\Debug\net8.0\refint\Cubo.dll
+C:\Users\Dell\Documents\PracticaC#\Compras\Cubo\obj\Debug\net8.0\Cubo.pdb
+C:\Users\Dell\Documents\PracticaC#\Compras\Cubo\obj\Debug\net8.0\Cubo.genruntimeconfig.cache
+C:\Users\Dell\Documents\PracticaC#\Compras\Cubo\obj\Debug\net8.0\ref\Cubo.dll
