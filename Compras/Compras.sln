@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Compras", "Compras\Compras.csproj", "{08B9860F-0CE6-4121-88A8-49166E4F015D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Compras", "Compras\Compras.csproj", "{08B9860F-0CE6-4121-88A8-49166E4F015D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cubo", "Cubo\Cubo.csproj", "{7576E805-538A-4857-BA05-89816DE0EC6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Notas", "Notas\Notas.csproj", "{C41BC3A8-C04B-4165-8DE0-3C8D44970ED2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{08B9860F-0CE6-4121-88A8-49166E4F015D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{08B9860F-0CE6-4121-88A8-49166E4F015D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{08B9860F-0CE6-4121-88A8-49166E4F015D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7576E805-538A-4857-BA05-89816DE0EC6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7576E805-538A-4857-BA05-89816DE0EC6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7576E805-538A-4857-BA05-89816DE0EC6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7576E805-538A-4857-BA05-89816DE0EC6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C41BC3A8-C04B-4165-8DE0-3C8D44970ED2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C41BC3A8-C04B-4165-8DE0-3C8D44970ED2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C41BC3A8-C04B-4165-8DE0-3C8D44970ED2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C41BC3A8-C04B-4165-8DE0-3C8D44970ED2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

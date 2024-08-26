@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dell\\Documents\\PracticaC#\\Compras\\Compras\\Compras.csproj": {}
+    "C:\\Users\\Dell\\Documents\\PracticaC#\\Compras\\Notas\\Notas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dell\\Documents\\PracticaC#\\Compras\\Compras\\Compras.csproj": {
+    "C:\\Users\\Dell\\Documents\\PracticaC#\\Compras\\Notas\\Notas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dell\\Documents\\PracticaC#\\Compras\\Compras\\Compras.csproj",
-        "projectName": "Compras",
-        "projectPath": "C:\\Users\\Dell\\Documents\\PracticaC#\\Compras\\Compras\\Compras.csproj",
+        "projectUniqueName": "C:\\Users\\Dell\\Documents\\PracticaC#\\Compras\\Notas\\Notas.csproj",
+        "projectName": "Notas",
+        "projectPath": "C:\\Users\\Dell\\Documents\\PracticaC#\\Compras\\Notas\\Notas.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dell\\Documents\\PracticaC#\\Compras\\Compras\\obj\\",
+        "outputPath": "C:\\Users\\Dell\\Documents\\PracticaC#\\Compras\\Notas\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
